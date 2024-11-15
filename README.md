@@ -19,6 +19,12 @@
 
  ##  Getting Started
 
+## APP UI
+
+ ![Image Alt Text](public/images/1.png)
+
+![Image Alt Text](public/images/1.gif.gif)
+
  ### Prerequisites
  Before you begin, ensure you have the following installed:
 
